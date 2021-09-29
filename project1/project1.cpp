@@ -3,9 +3,9 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello World!\n";
+    cout << "Hello!\n";
     cout << "OK";
-    rdhkyrhrkd
-
+    
+// https://clck.ru/XrzRa
 }
 
