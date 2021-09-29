@@ -5,7 +5,7 @@ int main()
 {
     cout << "Hello!\n";
     cout << "OK";
-    cout << ":) ";
+    cout << ":)";
     
 // https://clck.ru/XrzRa
 }
